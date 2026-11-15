@@ -2,3 +2,4 @@
 _cc_index/
 __pycache__/
 *.log
+.manifest.json

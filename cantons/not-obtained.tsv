@@ -1,0 +1,27 @@
+canton	title	url	reason
+zh	Material for communes and police on naturalisation (login areas of the Gemeindeamt)	https://www.zh.ch/de/migration-integration/einbuergerung/informationen-fuer-behoerden-zur-einbuergerung.html	login wall
+be	Further BSIG items on migration and citizenship (BSIG database, numbers 1/121.x and 1/122.x)	https://www.gemeinden.dij.be.ch/de/start/bsig/bsig-datenbank.html	session-based JavaScript application (ktbe.jaxforms.com); not read by script, number of relevant items unknown
+be	Commune platforms of the Migrationsdienst and the Zivilstands- und Bürgerrechtsdienst	https://www.migration.sid.be.ch/de/start/login-gemeinden.html	login wall
+vd	SPOP directives and circulars to the communes, complete series (listing)	https://www.vd.ch/etat-droit-finances/communes/courrier-circulaire	listing endpoint disallowed by robots.txt (Disallow: /*&cHash=*); item count unknown
+vd	Directive 19/03: Contrôle du RI et mise à jour des Check-lists	https://www.vd.ch/uploads/tx_vdfilesdbsecri/20190718_19-03_Contrôle_du_RI_et_mise_à_jour_des_Check-lists.pdf	HTTP 404 at source; no Wayback copy
+vd	Directive 19/06: Fide	https://www.vd.ch/uploads/tx_vdfilesdbsecri/19-06_Fide.pdf	HTTP 404 at source; no Wayback copy
+vd	Directive 21/02: PA19 permis C, phase de test	https://www.vd.ch/uploads/tx_vdfilesdbsecri/21-02__PA19_permis_C_phase_de_test_1903.pdf	HTTP 404 at source; no Wayback copy
+vd	Circulaire 18/01: Restitution des permis de séjour	https://www.vd.ch/uploads/tx_vdfilesdbsecri/20180406_circulaire18_01_Restitution_des_permis_de_séjour.pdf	no Wayback copy; source address reported dead
+vd	Gestion du statut séparé par les CdH (2017)	https://www.vd.ch/uploads/tx_vdfilesdbsecri/20170523_Gestion_du_statut_séparé_par_les_CdH_SPOP_02.pdf	no Wayback copy; source address reported dead
+vd	Informations générales à l'intention des personnes en charge des demandes de naturalisations (2017)	https://www.vd.ch/uploads/tx_vdfilesdbsecri/20170929_Informations_générales_à_l'intention_des_personnes_en_charge_des_demandes_de_naturalisations_SPOP.pdf	no Wayback copy; source address reported dead
+vd	Directive - fiche pratique NAT-1804: La procédure cantonale vaudoise	https://www.vd.ch/uploads/tx_vdfilesdbsecri/NAT-1804_Directive_Fiche_Pratique_La_procèdure_cantonale_vaudoise.pdf	no Wayback copy; source address reported dead
+vd	Directive - fiche pratique NAT-1805: L'audition communale	https://www.vd.ch/uploads/tx_vdfilesdbsecri/NAT_1805_DFP_audition_communale.pdf	no Wayback copy; source address reported dead
+vd	Directives 21/03 (nouveau format des permis) and 22/12 (exigences linguistiques)	https://www.vd.ch/etat-droit-finances/communes/courrier-circulaire	known only from commune mirrors; no official address found
+vs	Naturalisation ordinaire: 05 - Guide pour les communes	https://www.vs.ch/documents/17556437/17623473/05+-+Guide+pour+les+communes.pdf	disallowed by robots.txt (Disallow: /documents/, /*.pdf); no Wayback copy
+vs	Ordentliche Einbürgerung: 05 - Leitfaden für die Gemeinden	https://www.vs.ch/documents/17556437/17623461/05+-+Leitfaden+ordentliche+Einbürgerung.pdf	disallowed by robots.txt; Wayback lists a capture (20250928213811) but returns HTTP 404 for it
+ti	Direttive e circolari of the Sezione degli enti locali to the communes (naturalisation items)	https://www4.ti.ch/di/sel/	bot check (JavaScript/CAPTCHA challenge) on www4.ti.ch; host not used, listing not seen
+bs	Leitfaden Einbürgerung des Kantons Basel-Stadt und der Bürgergemeinden	https://www.bgbasel.ch/	HTTP 403 on www.bgbasel.ch; exact address not found; not linked on bs.ch
+bl	Pages of the Amt für Migration und Bürgerrecht (not verified whether directives exist)	https://www.baselland.ch/politik-und-behorden/direktionen/sicherheitsdirektion/amt_fuer_migration	HTTP 403
+sg	St.Galler Leitfaden Häusliche Gewalt - Migrationsrecht 2022	https://www.sg.ch/content/dam/sgch/sicherheit/häusliche-gewalt/downloadliste-hauptseite--häusliche-gewalt-/Leitfaden HG  Migrationsrecht 2022.pdf	disallowed by robots.txt (Disallow: /content/); Wayback not tried
+sg	Handbook for the naturalisation councils (extranet)	https://www.sg.ch/recht/buergerrecht-zivilstand/einbuergerungsraete-login.html	login wall
+ag	Circulars to the communes (MIKA extranet für Gemeinden)	https://www.ag.ch/de/verwaltung/dvi/migration-integration/extranet	login wall
+tg	Kantonale Nothilfestrategie (KNS), Version 2021 (borderline: policy paper)	https://migrationsamt.tg.ch/public/upload/assets/107403/19_2021_Kantonale_Nothilfestrategie_%28KNS%29_vom_06.01.2021.pdf?fp=1	HTTP 429 on migrationsamt.tg.ch; host left alone
+tg	Dokumente für Einwohnerdienste (extranet)	https://migrationsamt.tg.ch/news/dokumente-fuer-einwohnerdienste.html/15282	login wall
+ar	Informationen für Einwohnerkontrollen; Leitfaden Einbürgerungen	https://ar.ch/verwaltung/departement-inneres-und-sicherheit/amt-fuer-inneres/abteilung-buergerrecht-und-zivilstand/einbuergerungen/leitfaden/	login wall
+sz	Pages of the Amt für Migration and the Bürgerrecht office beyond the start page (not verified)	https://www.sz.ch/afm	robots.txt disallows AI agents by name (ClaudeBot, anthropic-ai); site not read
+gr	Verwaltungsverordnungen collection (not verified whether it holds migration items)	https://www.gr.ch/DE/publikationen/Verwaltungsverordnungen/	disallowed by robots.txt
